@@ -1,0 +1,11 @@
+c:\Users\gabri\source\repos\CursoTDD\CursoTDD.Test\bin\Debug\netcoreapp2.2\CursoTDD.Test.deps.json
+c:\Users\gabri\source\repos\CursoTDD\CursoTDD.Test\bin\Debug\netcoreapp2.2\CursoTDD.Test.runtimeconfig.json
+c:\Users\gabri\source\repos\CursoTDD\CursoTDD.Test\bin\Debug\netcoreapp2.2\CursoTDD.Test.runtimeconfig.dev.json
+c:\Users\gabri\source\repos\CursoTDD\CursoTDD.Test\bin\Debug\netcoreapp2.2\CursoTDD.Test.dll
+c:\Users\gabri\source\repos\CursoTDD\CursoTDD.Test\bin\Debug\netcoreapp2.2\CursoTDD.Test.pdb
+c:\Users\gabri\source\repos\CursoTDD\CursoTDD.Test\obj\Debug\netcoreapp2.2\CursoTDD.Test.csprojAssemblyReference.cache
+c:\Users\gabri\source\repos\CursoTDD\CursoTDD.Test\obj\Debug\netcoreapp2.2\CursoTDD.Test.csproj.CoreCompileInputs.cache
+c:\Users\gabri\source\repos\CursoTDD\CursoTDD.Test\obj\Debug\netcoreapp2.2\CursoTDD.Test.AssemblyInfoInputs.cache
+c:\Users\gabri\source\repos\CursoTDD\CursoTDD.Test\obj\Debug\netcoreapp2.2\CursoTDD.Test.AssemblyInfo.cs
+c:\Users\gabri\source\repos\CursoTDD\CursoTDD.Test\obj\Debug\netcoreapp2.2\CursoTDD.Test.dll
+c:\Users\gabri\source\repos\CursoTDD\CursoTDD.Test\obj\Debug\netcoreapp2.2\CursoTDD.Test.pdb

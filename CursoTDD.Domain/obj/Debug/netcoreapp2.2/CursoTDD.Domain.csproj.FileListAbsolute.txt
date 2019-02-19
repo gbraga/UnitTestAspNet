@@ -1,0 +1,11 @@
+c:\Users\gabri\source\repos\CursoTDD\CursoTDD.Domain\bin\Debug\netcoreapp2.2\CursoTDD.Domain.deps.json
+c:\Users\gabri\source\repos\CursoTDD\CursoTDD.Domain\bin\Debug\netcoreapp2.2\CursoTDD.Domain.runtimeconfig.json
+c:\Users\gabri\source\repos\CursoTDD\CursoTDD.Domain\bin\Debug\netcoreapp2.2\CursoTDD.Domain.runtimeconfig.dev.json
+c:\Users\gabri\source\repos\CursoTDD\CursoTDD.Domain\bin\Debug\netcoreapp2.2\CursoTDD.Domain.dll
+c:\Users\gabri\source\repos\CursoTDD\CursoTDD.Domain\bin\Debug\netcoreapp2.2\CursoTDD.Domain.pdb
+c:\Users\gabri\source\repos\CursoTDD\CursoTDD.Domain\obj\Debug\netcoreapp2.2\CursoTDD.Domain.csproj.CoreCompileInputs.cache
+c:\Users\gabri\source\repos\CursoTDD\CursoTDD.Domain\obj\Debug\netcoreapp2.2\CursoTDD.Domain.AssemblyInfoInputs.cache
+c:\Users\gabri\source\repos\CursoTDD\CursoTDD.Domain\obj\Debug\netcoreapp2.2\CursoTDD.Domain.AssemblyInfo.cs
+c:\Users\gabri\source\repos\CursoTDD\CursoTDD.Domain\obj\Debug\netcoreapp2.2\CursoTDD.Domain.dll
+c:\Users\gabri\source\repos\CursoTDD\CursoTDD.Domain\obj\Debug\netcoreapp2.2\CursoTDD.Domain.pdb
+C:\Users\gabri\source\repos\CursoTDD\CursoTDD.Domain\obj\Debug\netcoreapp2.2\CursoTDD.Domain.csprojAssemblyReference.cache
